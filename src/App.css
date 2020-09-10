@@ -1,0 +1,34 @@
+.main {
+  width: 500px;
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, 5%);
+}
+.main-head-session {
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+.main-head-break {
+  width: 100%;
+  background-color: black;
+  color: #48ff00;
+}
+#time-left {
+  font-size: 11rem;
+}
+.timer-label-session {
+  text-align: left;
+  background-color: black;
+  color: white;
+}
+.timer-label-break {
+  text-align: left;
+  background-color: black;
+  color: #48ff00;
+}
+
+.timer-zone {
+  text-align: center;
+}
